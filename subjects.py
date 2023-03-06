@@ -12,7 +12,7 @@ Sum = (math + english + physics + chemistry + history)
 avg = Sum / 5
 
 #printing the sum and average 
-print("You have an sum of",Sum, "and an average of",avg,)
+print("You have an total of",Sum, "and an average of",avg,)
 
 #find if the user has passed or failed
 if avg >20 :
